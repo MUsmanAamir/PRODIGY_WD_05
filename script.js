@@ -1,3 +1,5 @@
+
+
 document.getElementById('fetch-weather').addEventListener('click', fetchWeather);
 
 function fetchWeather() {
